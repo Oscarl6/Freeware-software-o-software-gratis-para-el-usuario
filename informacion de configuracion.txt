@@ -1,3 +1,0 @@
-Para que funcione, la carpeta Temp2 debe 
-estar en la raiz de C
-
